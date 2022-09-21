@@ -13,20 +13,9 @@ The ultimate goal of this project is to build a set of interpolated lookup table
 The project was created with Python 3.9.0.
 Run the following commands to initiate thw project:
 
-1. Runc opencmd.bat create virtual environment in folder **env38/**:
-
-  `python3 -m venv env38`
-
-2. activate the virtual environment:
-
-  `source env38/bin/activate`
-
-3. pip install required packages:
-
-  `pip install -r requirements.txt`
-
-4. Use 'Rds_on_eval.py' to produce calculations of resistance ('Rds_Tj_measurement.npz'). 
-5. Use 'Bayes Filter.py' to import ('Rds_Tj_measurement.npz') and visualize a sample of the lookup-tables for controllable given drain current.   
+1. Run openCmd.bat to create and create virtual environment in folder env38.
+2. Use 'Rds_on_eval.py' to produce calculations of resistance ('Rds_Tj_measurement.npz'). 
+3. Use 'Bayes Filter.py' to import ('Rds_Tj_measurement.npz') and visualize a sample of the lookup-tables for controllable given drain current.   
 
 
 ## Project Motivation: <a name="motivation"></a>
