@@ -13,7 +13,7 @@ The ultimate goal of this project is to build a set of interpolated lookup table
 The project was created with Python 3.9.0.
 Run the following commands to initiate thw project:
 
-1. create virtual environment in folder **ML_Disaster_Response_Pipeline/**:
+1. Runc opencmd.bat create virtual environment in folder **env38/**:
 
   `python3 -m venv env38`
 
