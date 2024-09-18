@@ -1,4 +1,4 @@
-# Resistance_Evaluation
+# Polynomial Fitting of Electrical Resistance based on scarce empirical Data
 The ultimate goal of this project is to build a set of interpolated lookup tables, such that each curve in the lookup tables describe the relationship between the on-state resistance and a corresponding temperature for a given drain-current.  Measurements of voltage and current at different junction-temperatures are used to interpolate and extrapolate these relations. 
 
 
